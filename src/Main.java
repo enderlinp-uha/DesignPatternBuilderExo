@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     /*
         Votre tâche est de créer un système de commande de voiture. Un client doit pouvoir choisir différentes options pour sa voiture.
