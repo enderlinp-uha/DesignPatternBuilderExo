@@ -6,7 +6,7 @@ public class Car {
     private String color = "";
     private ArrayList<String> options = new ArrayList<String>();
 
-    private Car(BuilderCar builder) {
+    public Car(BuilderCar builder) {
         this.serialNumber = builder.serialNumber;
         this.color = builder.color;
         this.options = builder.options;
